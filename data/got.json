@@ -1,0 +1,26 @@
+{
+    "Jon Snow": {
+        "actor": "Kit Harington",
+        "genero": "Hombre",
+        "casa": "Targaryens",
+        "season": 8
+    },
+    "Daenerys": {
+        "actor": "Emilia Clarke",
+        "genero": "Mujer",
+        "casa": "Targaryens",
+        "season": 8
+    },
+    "Tyrion": {
+        "actor": "Peter Dinklage",
+        "genero": "Hombre",
+        "casa": "Lanisters",
+        "season": 8
+    },
+    "Lyanna": {
+        "actor": "Bella Ramsey",
+        "genero": "Female",
+        "casa": "Mormonts",
+        "season": 8
+    }
+}
